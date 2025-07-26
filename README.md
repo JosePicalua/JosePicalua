@@ -1,46 +1,69 @@
-# 👋 Hi, 
-- 📫 How to reach me: josepicalua63@gmail.com | 📱 +57 350 4241139 | WhatsApp: +57 316 3105530
-- 📊 Data Analyst/Science & Business Intelligence Specialist | 🤖 Machine Learning & Fraud Detection Expert | 🐘 PostgreSQL & Python Developer
+👋 Hi, and thank you for visiting my profile!
 
-## Professional Summary
+📫 Contact:
+josepicalua63@gmail.com | 📱 +57 350 4241139 | WhatsApp: +57 316 3105530
+📄 CV: [https://josepicalua.github.io]
+🐙 GitHub: [https://github.com/JosePicalua]
 
-Data Analyst specialized in advanced Business Intelligence and Machine Learning solutions, with solid experience in fraud detection, complex pattern analysis, and predictive modeling. My technical expertise spans from designing robust data architectures to implementing automated analysis systems that drive strategic decision-making in enterprise environments.
+🧠 Data Scientist | Applied Statistics | Machine Learning for Real-World Impact
+I specialize in applied data science, with strong expertise in statistical inference, predictive modeling, and machine learning techniques to solve real-world business problems. My focus is on building robust and scalable models that generate insights, detect anomalies, and support evidence-based decision-making.
 
-## Specialized Technical Competencies:
+🎯 Core Technical Competencies
+📊 Applied Statistics & Inference
+Hypothesis testing (t-tests, ANOVA, Chi-square)
 
-### 🗄️ Databases & Analytics:
-- Advanced PostgreSQL: Complex schema design, query optimization, stored procedures, and custom functions
-- Advanced SQL: Window functions, CTEs, temporal analysis, and high-performance queries for Big Data
+Confidence intervals & significance levels
 
-### 🤖 Machine Learning & Predictive Analytics:
-- Fraud detection through anomaly and classification algorithms
-- Behavioral pattern analysis and advanced segmentation
-- Probabilistic models for risk analysis and prediction
-- Research and development of custom algorithms
+Probabilistic modeling & experimental design
 
-### ⚙️ Data Engineering:
-- Lambda functions for serverless processing
-- ETL/EDA (Exploratory Data Analysis) with automated pipelines
-- Scalable data architectures and performance optimization
+Outlier detection & distribution fitting
 
-### 💻 Development & Tools:
-- Python ecosystem: Pandas, NumPy, Scikit-learn, TensorFlow
-- Development environments: VS Code, Jupyter Notebook, Anaconda
-- Version control: Git/GitHub with agile methodologies
-- Advanced visualization: Dash (URL deployment for resource optimization vs Power BI)
+🤖 Machine Learning & Predictive Modeling
+Supervised learning (classification, regression, evaluation metrics)
 
-### 🌍 Language Competencies:
-- Spanish: Native
-- English: C1 Level (Advanced)
-- Portuguese: C1 Level (Advanced)
+Unsupervised learning (clustering, dimensionality reduction)
 
-### 📝 Documentation & Research Specialization:
-Development of comprehensive technical documentation for data research projects, including methodologies, findings, and strategic recommendations. Experience in creating executive reports and technical documentation for multidisciplinary teams.
+Cross-validation, ROC, precision/recall optimization
 
-## 💡 Value Proposition:
-I combine analytical rigor with strategic vision to transform complex data into actionable insights. My approach focuses on implementing scalable solutions that not only solve current challenges but anticipate future business needs, optimizing resources and maximizing ROI in data analysis projects.
+Anomaly detection & fraud modeling
 
-<!---
-JosePicalua/JosePicalua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Time series forecasting & temporal decomposition
+
+⚙️ Data Engineering & Automation
+Automated EDA pipelines & scalable ML workflows
+
+Custom preprocessing & feature engineering
+
+Integration with SQL databases and API endpoints
+
+💾 Databases & Querying
+PostgreSQL (PL/pgSQL, CTEs, window functions)
+
+Advanced SQL: pattern extraction, nested queries, temporal joins
+
+Data cleaning, normalization, and performance optimization
+
+💻 Python Ecosystem
+Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow (basic)
+
+Environments: JupyterLab, VS Code, Anaconda
+
+Git & GitHub | Deployment-ready code | Shell scripting basics
+
+📚 Technical Documentation & Research
+Full-cycle documentation of research findings, models, and methodologies
+
+Executive summaries with analytical insights
+
+Collaboration with cross-functional teams for data-driven projects
+
+🌍 Language Competencies
+🇪🇸 Spanish: Native
+
+🇺🇸 English: C1 (Advanced)
+
+🇧🇷 Portuguese: C1 (Advanced)
+
+💡 My Value Proposition
+I combine deep statistical knowledge with a pragmatic machine learning approach to deliver robust, explainable, and scalable models. My work centers on real-world datasets and data-driven strategies that create tangible value — from automating analysis to anticipating risks and optimizing outcomes.
+
